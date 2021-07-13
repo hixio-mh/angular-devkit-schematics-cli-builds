@@ -25,7 +25,7 @@
     "@schematics/schematics": "github:angular/schematics-schematics-builds#e651ac715",
     "inquirer": "7.3.3",
     "minimist": "1.2.5",
-    "rxjs": "6.6.2",
+    "rxjs": "6.6.7",
     "symbol-observable": "2.0.0"
   },
   "repository": {
